@@ -25,7 +25,7 @@
 - ✨ I’m currently working on **a stealth project** (more than one, actually)
 - 🔥 I’m currently learning **AI, Cloud Computing, DevOps and MLOps**
 - ⭐ Ask me about **anything**
-- ⚡ Random shower thought: The word **Monopoly** is an oxymoron.
+- ⚡ Random shower thought: The adjective for metal is metallic, but no so for iron, which is ironic.
 - 🌟 Random idiom: **knee jerk reaction** - a quick and automatic response
 
 </h4>
