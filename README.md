@@ -40,9 +40,10 @@
 ![Anand's github stats](https://github-readme-stats.vercel.app/api?username=gnzeleven&show_icons=true)
 <p>
 
-<!-- Optional Visitors badge: -->
+<!-- Optional Visitors badge: 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gnzeleven.gnzeleven)
-
+-->
+ 
 ⭐️ From [Anand](https://github.com/gnzeleven) 
 
 <br />
