@@ -1,6 +1,6 @@
 ### Hey visitor, welcome to my github profile! 👋
 
-<a href="https://www.linkedin.com/in/anandavigneshvs/">
+<a href="">
  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=Linkedin&logoColor=white"/>
 </a>
 <a href="https://avignesh.com">
